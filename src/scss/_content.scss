@@ -28,4 +28,9 @@
     text-decoration: underline;
     color: $primary-color;
   }
+
+  ul {
+    list-style: circle;
+    margin-left: 2%;
+  }
 }
